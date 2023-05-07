@@ -1,4 +1,2 @@
-# adventofcode_2022
+# Advent of Code
 coding out my solution for problems in https://adventofcode.com/
-
-currently only have solution in python.
